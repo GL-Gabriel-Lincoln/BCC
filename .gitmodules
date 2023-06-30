@@ -1,3 +1,6 @@
 [submodule "AP1"]
 	path = AP1
 	url = https://github.com/GL-Gabriel-Lincoln/AP1
+[submodule "AP2"]
+	path = AP2
+	url = https://github.com/GL-Gabriel-Lincoln/AP2
